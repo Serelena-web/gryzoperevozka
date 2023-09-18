@@ -11,7 +11,7 @@ a {
 }
  .header {
     height: 64em;
-    background:  url(/image/Rectangle\ 2.png) no-repeat;
+    background:  url(Rectangle\ 2.png) no-repeat;
     background-size: cover;
     padding-bottom: 5%;
 
@@ -30,7 +30,7 @@ a {
     height: 200px;
     align-items: center;
     font-size: 1.5em;
-    background-image: url(image/image\ 2.svg);
+    background-image: url(image\ 2.svg);
     background-repeat: no-repeat;
     background-position: 68% 50%;
 
@@ -108,7 +108,7 @@ a {
    height: 360px;
    flex-shrink: 0;
    margin-top: 102px;
-   background-image: url(/image/Vector.svg),url(/image/Vector.svg),url(/image/Vector.svg),url(/image/Vector.svg),url(/image/Vector.svg);
+   background-image: url(Vector.svg),url(Vector.svg),url(Vector.svg),url(Vector.svg),url(Vector.svg);
    background-repeat: no-repeat,no-repeat,no-repeat,no-repeat,no-repeat;
    background-position: 50% 1%,60% 1%,70% 1%, 80% 1%, 90% 1%;
  }
@@ -170,7 +170,7 @@ a {
    width: 50%;
 }
 .header {
-   background-image: url(image/Frame\ 13.png);
+   background-image: url(Frame\ 13.png);
    background-repeat: no-repeat;
    background-size: cover;
    
@@ -218,7 +218,7 @@ a {
   }
   .footer {
    display: block;
-   background-image: url(image/Frame\ 12.svg);
+   background-image: url(Frame\ 12.svg);
    background-repeat: no-repeat;
    background-position: 5% 50%;
   }
@@ -244,7 +244,7 @@ a {
    font-size: 2em;
   }
   .header {
-   background-image: url(/image/Rectangle\ 9.png);
+   background-image: url(Rectangle\ 9.png);
    background-repeat: no-repeat;
    background-size: cover;
   }
